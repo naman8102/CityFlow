@@ -1,0 +1,11 @@
+# CityFlow AI ML Engine - Pinned Environment Specification
+# Ensures Training Environment Version == Inference Environment Version
+fastapi==0.115.6
+uvicorn==0.34.0
+scikit-learn==1.8.0
+xgboost==2.1.4
+joblib==1.4.2
+pandas==2.2.3
+numpy==2.2.1
+pydantic==2.10.4
+
